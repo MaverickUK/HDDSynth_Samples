@@ -9,9 +9,9 @@ Primarily it's hardware based device that can be put into computers to simulate 
 [More details about on the project website]((https://www.strifestreams.com/projects/hddsynth/))
 
 ## How to use
-Simply copy the directory containing the samples you wish to use into the 'samples' folders on the SD card used in the hardware based HDD Synth.
+Simply copy the directory containing the samples you wish to use into the `samples` folders on the SD card used in the hardware based HDD Synth.
 
-For the software based version, it's a case of copying the directory into the 'samples' folder where ever you've installed the software
+For the software based version, it's a case of copying the directory into the `samples` folder where ever you've installed the software
 
 ## Sample packs
 
