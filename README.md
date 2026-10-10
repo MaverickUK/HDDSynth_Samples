@@ -24,20 +24,20 @@ Created by: [Mark Angus](https://www.gladestock.co.uk/)
 ### [Mark (Toaster)](Mark_Toaster)
 Created by: [Mark Angus](https://www.gladestock.co.uk/)
 
-### [IBM Ultrastar IC35L018UWD210-0](/)
+### [IBM Ultrastar IC35L018UWD210-0](/PB_IBM_Ultrastar)
 Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
 
-### [MicroScience HH 612](/)
+### [MicroScience HH 612](/PB_MicroScience612)
 Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
 
-### [Quantum Fireball EX 3.2AT](/)
+### [Quantum Fireball EX 3.2AT](/PB_QuantumFireballEX)
 Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
 
-### [Quantum Fireball TM 1.2S SCSI](/)
+### [Quantum Fireball TM 1.2S SCSI](/PB_QuantumFireballTM)
 Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
 
-### [Western Digital Caviar 2850](/)
+### [Western Digital Caviar 2850](/PB_WD_Caviar2850)
 Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
 
-### [Western Digital WD Raptor WD360ADFD](/)
+### [Western Digital WD Raptor WD360ADFD](/PB_WD_Raptor)
 Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
