@@ -1,2 +1,43 @@
-# HDDSynth_Samples
-Sample packs for use with the HDD Synth (both hardware and software versions)
+# HDD Synth samples packs
+Hard disk drive recordings for use with the [HDD Synth](https://www.strifestreams.com/projects/hddsynth/).
+
+Both the [hardware](https://github.com/MaverickUK/HDDSynth) and [software](https://github.com/MaverickUK/HDDSynth_Win32) versions of the device
+
+## What is the HDD Synth?
+Primarily it's hardware based device that can be put into computers to simulate the sound of a mechanical hard drive.
+
+[More details about on the project website]((https://www.strifestreams.com/projects/hddsynth/))
+
+## How to use
+Simply copy the directory containing the samples you wish to use into the 'samples' folders on the SD card used in the hardware based HDD Synth.
+
+For the software based version, it's a case of copying the directory into the 'samples' folder where ever you've installed the software
+
+## Sample packs
+
+### [Mark (Original)](Mark_Original)
+Created by: [Mark Angus](https://www.gladestock.co.uk/)
+
+### [Mark (IBM)](Mark_IBM)
+Created by: [Mark Angus](https://www.gladestock.co.uk/)
+
+### [Mark (Toaster)](Mark_Toaster)
+Created by: [Mark Angus](https://www.gladestock.co.uk/)
+
+### [IBM Ultrastar IC35L018UWD210-0](/)
+Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+
+### [MicroScience HH 612](/)
+Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+
+### [Quantum Fireball EX 3.2AT](/)
+Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+
+### [Quantum Fireball TM 1.2S SCSI](/)
+Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+
+### [Western Digital Caviar 2850](/)
+Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+
+### [Western Digital WD Raptor WD360ADFD](/)
+Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
