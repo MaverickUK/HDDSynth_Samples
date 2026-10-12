@@ -80,7 +80,7 @@ You may call the HDD sample pack directory by any name of your choice, however i
 
 ### [Quantum Fireball TM 1.2S SCSI](/PB_QuantumFireballTM)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=otw775WdaP8)
-- Size: 1,090 KB
+- Size: 1,089 KB
 
 ### [Western Digital Caviar 2850](/PB_WD_Caviar2850)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
