@@ -76,7 +76,7 @@ You may call the HDD sample pack directory by any name of your choice, however i
 
 ### [Quantum Fireball EX 3.2AT](/PB_QuantumFireballEX)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=rnQ536oCb8w)
-- Size: 789 KB
+- Size: 788 KB
 
 ### [Quantum Fireball TM 1.2S SCSI](/PB_QuantumFireballTM)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=otw775WdaP8)
