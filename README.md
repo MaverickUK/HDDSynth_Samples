@@ -88,4 +88,4 @@ You may call the HDD sample pack directory by any name of your choice, however i
 
 ### [Western Digital WD Raptor WD360ADFD](/PB_WD_Raptor)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=rGmpMltEUgQ)
-- Size: 753 KB
+- Size: 752 KB
