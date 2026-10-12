@@ -13,31 +13,58 @@ Simply copy the directory containing the samples you wish to use into the `sampl
 
 For the software based version, it's a case of copying the directory into the `samples` folder where ever you've installed the software
 
+## Creating new HDD Sample Packs
+The HDD Synth is designed to be easily extendable and allows you to create your own HDD sample packs. Each HDD sample pack is made up a directory on the SD card which then contains the following WAV files:
+
+- `spinup.wav`
+- `idle.wav`
+- `Access.wav`
+- `spinodown.wav`
+
+Each WAV file must be:
+- Mono
+- 16Khz
+- 16bit
+
+The combined size of all the samples must not exceed 2MB (Max 1MB for the HDD Synth v5.3.0 Beta Edition)
+
+You may call the HDD sample pack directory by any name of your choice, however it must not exceed 64 characters in length or contain any spaces (i.e. IBM_type_2.wav is OK, IBM type 2.wav is not)
+
+
 ## Sample packs
 
 ### [Mark (Original)](Mark_Original)
-Created by: [Mark Angus](https://www.gladestock.co.uk/)
+- Created by: [Mark Angus](https://www.gladestock.co.uk/)
+- Size: 434 KB
 
 ### [Mark (IBM)](Mark_IBM)
-Created by: [Mark Angus](https://www.gladestock.co.uk/)
+- Created by: [Mark Angus](https://www.gladestock.co.uk/)
+- Size: 573 KB
 
 ### [Mark (Toaster)](Mark_Toaster)
-Created by: [Mark Angus](https://www.gladestock.co.uk/)
+- Created by: [Mark Angus](https://www.gladestock.co.uk/)
+- Size: 568 KB
 
 ### [IBM Ultrastar IC35L018UWD210-0](/PB_IBM_Ultrastar)
-Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Size: 1,077 KB
 
 ### [MicroScience HH 612](/PB_MicroScience612)
-Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Size: 1,556 KB
 
 ### [Quantum Fireball EX 3.2AT](/PB_QuantumFireballEX)
-Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Size: 789 KB
 
 ### [Quantum Fireball TM 1.2S SCSI](/PB_QuantumFireballTM)
-Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Size: 1,090 KB
 
 ### [Western Digital Caviar 2850](/PB_WD_Caviar2850)
-Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Size: 819 KB
 
 ### [Western Digital WD Raptor WD360ADFD](/PB_WD_Raptor)
-Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Size: 753 KB
