@@ -3,6 +3,13 @@ Hard disk drive recordings for use with the [HDD Synth](https://www.strifestream
 
 Both the [hardware](https://github.com/MaverickUK/HDDSynth) and [software](https://github.com/MaverickUK/HDDSynth_Win32) versions of the device
 
+## Contents
+- [What is the HDD Synth?](#what-is-the-hdd-synth)
+- [How to use](#how-to-use)
+- [Previewing samples](#previewing-samples)
+- [Creating new HDD Sample Packs](#creating-new-hdd-sample-packs)
+- [Sample packs](#sample-packs)
+
 ## What is the HDD Synth?
 Primarily it's hardware based device that can be put into computers to simulate the sound of a mechanical hard drive.
 
@@ -12,6 +19,19 @@ Primarily it's hardware based device that can be put into computers to simulate 
 Simply copy the directory containing the samples you wish to use into the `samples` folders on the SD card used in the hardware based HDD Synth.
 
 For the software based version, it's a case of copying the directory into the `samples` folder where ever you've installed the software
+
+## Previewing samples
+`preview.py` plays a sample pack as the HDD Synth would: spin up, idle looping three times, then spin down. It only needs Python 3, no extra packages.
+
+```
+python3 preview.py PB_WD_Raptor                       # play one pack
+
+python3 preview.py                                    # play every pack in turn
+
+python3 preview.py PB_WD_Raptor --loops 5 --access    # more idle loops, plus an access sound
+
+python3 preview.py PB_WD_Raptor --save out.wav        # save the combined WAV instead of playing
+```
 
 ## Creating new HDD Sample Packs
 The HDD Synth is designed to be easily extendable and allows you to create your own HDD sample packs. Each HDD sample pack is made up a directory on the SD card which then contains the following WAV files:
