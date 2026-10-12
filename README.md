@@ -84,7 +84,7 @@ You may call the HDD sample pack directory by any name of your choice, however i
 
 ### [Western Digital Caviar 2850](/PB_WD_Caviar2850)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
-- Size: 819 KB
+- Size: 818 KB
 
 ### [Western Digital WD Raptor WD360ADFD](/PB_WD_Raptor)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=rGmpMltEUgQ)
