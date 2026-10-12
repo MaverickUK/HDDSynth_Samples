@@ -21,16 +21,17 @@ Simply copy the directory containing the samples you wish to use into the `sampl
 For the software based version, it's a case of copying the directory into the `samples` folder where ever you've installed the software
 
 ## Previewing samples
-`preview.py` plays a sample pack as the HDD Synth would: spin up, idle looping three times, then spin down. It only needs Python 3, no extra packages.
+`preview.py` plays a sample pack as the HDD Synth would: spin up, idle looping three times then spin down. You just need Python3 installed to run the command.
 
 ```
-python3 preview.py PB_WD_Raptor                       # play one pack
+# Play single pack
+python3 preview.py PB_WD_Raptor
 
-python3 preview.py                                    # play every pack in turn
+# Play all packs
+python3 preview.py 
 
-python3 preview.py PB_WD_Raptor --loops 5 --access    # more idle loops, plus an access sound
-
-python3 preview.py PB_WD_Raptor --save out.wav        # save the combined WAV instead of playing
+# Save pack demo to disk
+python3 preview.py PB_WD_Raptor --save out.wav
 ```
 
 ## Creating new HDD Sample Packs
@@ -71,7 +72,7 @@ You may call the HDD sample pack directory by any name of your choice, however i
 
 ### [MicroScience HH 612](/PB_MicroScience612)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=YUmg1hMx5fM)
-- Size: 1,556 KB
+- Size: 1,555 KB
 
 ### [Quantum Fireball EX 3.2AT](/PB_QuantumFireballEX)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=rnQ536oCb8w)
