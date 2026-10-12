@@ -66,19 +66,19 @@ You may call the HDD sample pack directory by any name of your choice, however i
 - Size: 568 KB
 
 ### [IBM Ultrastar IC35L018UWD210-0](/PB_IBM_Ultrastar)
-- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
-- Size: 1,077 KB
+- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=2Q4jKxAKpmI)
+- Size: 1,076 KB
 
 ### [MicroScience HH 612](/PB_MicroScience612)
-- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=YUmg1hMx5fM)
 - Size: 1,556 KB
 
 ### [Quantum Fireball EX 3.2AT](/PB_QuantumFireballEX)
-- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=rnQ536oCb8w)
 - Size: 789 KB
 
 ### [Quantum Fireball TM 1.2S SCSI](/PB_QuantumFireballTM)
-- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=otw775WdaP8)
 - Size: 1,090 KB
 
 ### [Western Digital Caviar 2850](/PB_WD_Caviar2850)
@@ -86,5 +86,5 @@ You may call the HDD sample pack directory by any name of your choice, however i
 - Size: 819 KB
 
 ### [Western Digital WD Raptor WD360ADFD](/PB_WD_Raptor)
-- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
+- Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=rGmpMltEUgQ)
 - Size: 753 KB
