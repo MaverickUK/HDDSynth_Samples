@@ -1,7 +1,7 @@
 # HDD Synth samples packs
 Hard disk drive recordings for use with the [HDD Synth](https://www.strifestreams.com/projects/hddsynth/).
 
-Both the [hardware](https://github.com/MaverickUK/HDDSynth) and [software](https://github.com/MaverickUK/HDDSynth_Win32) versions of the device
+These work with both the [hardware](https://github.com/MaverickUK/HDDSynth) and [software](https://github.com/MaverickUK/HDDSynth_Win32) versions of the device
 
 ## Contents
 - [What is the HDD Synth?](#what-is-the-hdd-synth)
@@ -13,7 +13,7 @@ Both the [hardware](https://github.com/MaverickUK/HDDSynth) and [software](https
 ## What is the HDD Synth?
 Primarily it's hardware based device that can be put into computers to simulate the sound of a mechanical hard drive.
 
-[More details about on the project website]((https://www.strifestreams.com/projects/hddsynth/))
+More details about on the [project website](https://www.strifestreams.com/projects/hddsynth/)
 
 ## How to use
 Simply copy the directory containing the samples you wish to use into the `samples` folders on the SD card used in the hardware based HDD Synth.
