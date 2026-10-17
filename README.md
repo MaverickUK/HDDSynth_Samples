@@ -18,10 +18,28 @@ More details about on the [project website](https://www.strifestreams.com/projec
 ## How to use
 Simply copy the directory containing the samples you wish to use into the `samples` folders on the SD card used in the hardware based HDD Synth.
 
+For example, to use the Western Digital Raptor pack, copy this directory from the repo:
+
+```
+samples/PB_WD_Raptor/
+```
+
+So it ends up on the SD card as:
+
+```
+SD card
+└── samples/
+    └── PB_WD_Raptor/
+        ├── spinup.wav
+        ├── idle.wav
+        ├── access.wav
+        └── spindown.wav
+```
+
 For the software based version, it's a case of copying the directory into the `samples` folder where ever you've installed the software
 
 ## Previewing samples
-`preview.py` plays a sample pack as the HDD Synth would: spin up, idle looping three times then spin down. You just need Python3 installed to run the command.
+The sample packs live in the [`samples`](samples) directory. `preview.py` plays a sample pack as the HDD Synth would: spin up, idle looping three times then spin down. You just need Python3 installed to run the command.
 
 ```
 # Play single pack
@@ -39,8 +57,8 @@ The HDD Synth is designed to be easily extendable and allows you to create your 
 
 - `spinup.wav`
 - `idle.wav`
-- `Access.wav`
-- `spinodown.wav`
+- `access.wav`
+- `spindown.wav`
 
 Each WAV file must be:
 - Mono
@@ -58,38 +76,38 @@ You may call the HDD sample pack directory by any name of your choice, however i
 
 ## Sample packs
 
-### [Mark (Original)](Mark_Original)
+### [Mark (Original)](samples/Mark_Original)
 - Created by: [Mark Angus](https://www.gladestock.co.uk/)
 - Size: 434 KB
 
-### [Mark (IBM)](Mark_IBM)
+### [Mark (IBM)](samples/Mark_IBM)
 - Created by: [Mark Angus](https://www.gladestock.co.uk/)
 - Size: 573 KB
 
-### [Mark (Toaster)](Mark_Toaster)
+### [Mark (Toaster)](samples/Mark_Toaster)
 - Created by: [Mark Angus](https://www.gladestock.co.uk/)
 - Size: 568 KB
 
-### [IBM Ultrastar IC35L018UWD210-0](/PB_IBM_Ultrastar)
+### [IBM Ultrastar IC35L018UWD210-0](samples/PB_IBM_Ultrastar)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=2Q4jKxAKpmI)
 - Size: 1,076 KB
 
-### [MicroScience HH 612](/PB_MicroScience612)
+### [MicroScience HH 612](samples/PB_MicroScience612)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=YUmg1hMx5fM)
 - Size: 1,555 KB
 
-### [Quantum Fireball EX 3.2AT](/PB_QuantumFireballEX)
+### [Quantum Fireball EX 3.2AT](samples/PB_QuantumFireballEX)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=rnQ536oCb8w)
 - Size: 788 KB
 
-### [Quantum Fireball TM 1.2S SCSI](/PB_QuantumFireballTM)
+### [Quantum Fireball TM 1.2S SCSI](samples/PB_QuantumFireballTM)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=otw775WdaP8)
 - Size: 1,089 KB
 
-### [Western Digital Caviar 2850](/PB_WD_Caviar2850)
+### [Western Digital Caviar 2850](samples/PB_WD_Caviar2850)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/channel/UCPKbhl3GPYnZ2dQ9gn_NLCQ)
 - Size: 818 KB
 
-### [Western Digital WD Raptor WD360ADFD](/PB_WD_Raptor)
+### [Western Digital WD Raptor WD360ADFD](samples/PB_WD_Raptor)
 - Created by: Peter Bridger, using recording by [MBC Computers](https://www.youtube.com/watch?v=rGmpMltEUgQ)
 - Size: 752 KB

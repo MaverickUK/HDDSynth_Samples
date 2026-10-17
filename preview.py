@@ -18,7 +18,7 @@ import sys
 import tempfile
 import wave
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "samples")
 REQUIRED = ("spinup.wav", "idle.wav", "spindown.wav")
 
 
@@ -112,7 +112,7 @@ def main():
 
     packs = find_packs()
     if args.pack:
-        pack = args.pack.rstrip("/\\")
+        pack = os.path.basename(args.pack.rstrip("/\\"))
         if pack not in packs:
             print(f"Unknown pack '{pack}'. Available packs:", file=sys.stderr)
             for p in packs:
