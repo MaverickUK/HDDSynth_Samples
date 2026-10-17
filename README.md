@@ -62,10 +62,11 @@ The HDD Synth is designed to be easily extendable and allows you to create your 
 
 Each WAV file must be:
 - Mono
-- 16Khz
 - 16bit
+- Sample rate of 16, 22.05, 32, 44.1 or 48 kHz
 
-The combined size of all the samples must not exceed 2MB 
+> [!WARNING]
+> All samples within a pack must use the same sample rate
 
 You may call the HDD sample pack directory by any name of your choice, however it must not exceed 64 characters in length or contain any spaces (i.e.`IBM_type_2` is OK, `IBM type 2` is not)
 
