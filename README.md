@@ -67,10 +67,6 @@ Each WAV file must be:
 
 The combined size of all the samples must not exceed 2MB 
 
-> [!WARNING]
-> Max 1MB for the HDD Synth v5.3.0 Beta Edition, due to using the RO2354A with only 2MB onboard and no external flash
-
-
 You may call the HDD sample pack directory by any name of your choice, however it must not exceed 64 characters in length or contain any spaces (i.e.`IBM_type_2` is OK, `IBM type 2` is not)
 
 
