@@ -1,4 +1,4 @@
-# HDD Synth samples packs
+# HDD Synth sample packs
 Hard disk drive recordings for use with the [HDD Synth](https://www.strifestreams.com/projects/hddsynth/).
 
 These work with both the [hardware](https://github.com/MaverickUK/HDDSynth) and [software](https://github.com/MaverickUK/HDDSynth_Win32) versions of the device
