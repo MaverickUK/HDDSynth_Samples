@@ -103,6 +103,7 @@ A CD-ROM pack must have the same sample rate as the hard disk pack it plays besi
 ### [LG GCC-4320B](cdrom/CD_LG_GCC4320B)
 - A DVD-ROM/CD-RW combo drive (HL-DT-ST), recorded 21-22 Nov 2026 on a Samson Meteor microphone, the drive on a sponge.
 - Access and sequential are the head alone, recorded with the disc stopped (at full speed the disc's rush hides it).
+- Levelled against a disk pack: idle at RMS 4,000 (+12 dB on the first cut, which a disk's idle buried), each file's peak held to -1 dBFS.
 - Size: 1.4 MB, 16 kHz
 
 ## Sample packs
