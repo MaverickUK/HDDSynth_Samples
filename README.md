@@ -8,6 +8,7 @@ These work with both the [hardware](https://github.com/MaverickUK/HDDSynth) and 
 - [How to use](#how-to-use)
 - [Previewing samples](#previewing-samples)
 - [Creating new HDD Sample Packs](#creating-new-hdd-sample-packs)
+- [CD-ROM drive packs](#cd-rom-drive-packs)
 - [Sample packs](#sample-packs)
 
 ## What is the HDD Synth?
@@ -70,6 +71,39 @@ Each WAV file must be:
 
 You may call the HDD sample pack directory by any name of your choice, however it must not exceed 64 characters in length or contain any spaces (i.e.`IBM_type_2` is OK, `IBM type 2` is not)
 
+
+## CD-ROM drive packs
+
+With an [IDE Synth Bay](https://github.com/MaverickUK/HDDSynthPro) emulating a CD-ROM drive beside the hard disk, the HDD Synth can play the CD-ROM too (experimental: HDDSynth_Native's `cdrom-sounds` branch). A CD-ROM pack has a hard disk pack's files plus the tray:
+
+- `spinup.wav`, `idle.wav`, `access.wav`, `spindown.wav`, and `sequential.wav`
+- `tray_open.wav` and `tray_close.wav`
+- `pack.json` (optional: `NAME`, `AUTHOR`, `GAIN`)
+
+They live in [`cdrom`](cdrom), and go in a `cdrom` folder on the SD card, beside `samples` (not in it, or the pack button would play them as a hard disk):
+
+```
+SD card
+├── samples/
+│   └── PB_WD_Raptor/ ...
+└── cdrom/
+    └── CD_LG_GCC4320B/
+        ├── spinup.wav
+        ├── idle.wav
+        ├── access.wav
+        ├── sequential.wav
+        ├── spindown.wav
+        ├── tray_open.wav
+        ├── tray_close.wav
+        └── pack.json
+```
+
+A CD-ROM pack must have the same sample rate as the hard disk pack it plays beside (every pack here is 16 kHz). The IDE Synth Bay's `tools/cd_sounds` records them from a real drive.
+
+### [LG GCC-4320B](cdrom/CD_LG_GCC4320B)
+- A DVD-ROM/CD-RW combo drive (HL-DT-ST), recorded 21-22 Nov 2026 on a Samson Meteor microphone, the drive on a sponge.
+- Access and sequential are the head alone, recorded with the disc stopped (at full speed the disc's rush hides it).
+- Size: 1.4 MB, 16 kHz
 
 ## Sample packs
 
